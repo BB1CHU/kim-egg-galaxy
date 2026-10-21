@@ -1,0 +1,116 @@
+{
+  "method": "FFmpeg 9.0.2 stream selection -map 0:v:0 -an -sn -dn; camera transcoded from HEVC to H.264/yuv420p; all outputs decoded fully",
+  "images": 11,
+  "imageThumbnails": 11,
+  "videoPosters": 4,
+  "totalJPEGs": 26,
+  "videos": [
+    {
+      "file": "camera.mp4",
+      "decodePassed": true,
+      "audioStreams": 0,
+      "videoStreams": 1,
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "width": 720,
+      "height": 1280,
+      "duration": 8.3
+    },
+    {
+      "file": "favorite-01.mp4",
+      "decodePassed": true,
+      "audioStreams": 0,
+      "videoStreams": 1,
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "width": 1280,
+      "height": 720,
+      "duration": 22.989633
+    },
+    {
+      "file": "favorite-02.mp4",
+      "decodePassed": true,
+      "audioStreams": 0,
+      "videoStreams": 1,
+      "codec": "h264",
+      "pixelFormat": "yuv420p",
+      "width": 720,
+      "height": 1280,
+      "duration": 9.933333
+    },
+    {
+      "file": "favorite-03.mp4",
+      "decodePassed": true,
+      "audioStreams": 0,
+      "videoStreams": 1,
+      "codec": "h264",
+      "pixelFormat": "yuvj420p",
+      "width": 1280,
+      "height": 720,
+      "duration": 12.243333
+    }
+  ],
+  "originalsReadOnly": true,
+  "originalSHA256": [
+    {
+      "file": "__ 01-0d2c84b5-ee05-4224-bfde-c16a07b2fff1.jpg",
+      "sha256": "75DCB1A4A6D57107006ADD4D47F853E28AD468114E93D751BBF35FDF846D2B82"
+    },
+    {
+      "file": "__ 01.jpg",
+      "sha256": "B45714268D58435BACBBFA4BE6851AA831FEA63CD28822FECF6CE3028F3CE631"
+    },
+    {
+      "file": "__ 01.mp4",
+      "sha256": "CAA901610CEC75B87FD1FF1E63F9B417FE0459D0F0E1B7E3EAA68AD8010D7D75"
+    },
+    {
+      "file": "__ 02.jpg",
+      "sha256": "C14893D463F37E6117726CD3D2BBB6182CD6B57F4235DB0F4487E4905098C940"
+    },
+    {
+      "file": "__ 02.mp4",
+      "sha256": "EB22D78B076EE694641787192F152C6FFCB70B012870D99EBF08BA5075F1C5FE"
+    },
+    {
+      "file": "__ 03.jpg",
+      "sha256": "B0DE8F90B356DE7D8FDEB18B73F71D699EA166540FC3C07EECDC47FED4AE3714"
+    },
+    {
+      "file": "__ 03.mp4",
+      "sha256": "01F47D49ABF7CCFCF0DBE547FB9F5E05666E3956FDACFF48DD99E12E39563B08"
+    },
+    {
+      "file": "__ 04.jpg",
+      "sha256": "A7744EB38A4A6E410C4C7837773E23C75CC69E685A9B859D44F50F18ED79BE2E"
+    },
+    {
+      "file": "__ 05-51ea6458-57d8-4f09-98e4-cea3cdeebc3c.jpg",
+      "sha256": "F65FFB41C2288EC14F8BCF7424292F4495DBF1BF14A32E0A2CBF42141DB9E595"
+    },
+    {
+      "file": "__ 05.jpg",
+      "sha256": "280121B793D6B43FA9F1575CDA812CF2656D4F2B17797160D03848E9FC6D2CE3"
+    },
+    {
+      "file": "__ 07.jpg",
+      "sha256": "55E139E476E979945FDEBAAC3F35CF33A7DF34AF276C5C93FA55DA2AB43E071B"
+    },
+    {
+      "file": "__ 08.jpg",
+      "sha256": "5B780D9F1D83D81CAFFD97CD7E4057D23436844A986AD86207098875784E2131"
+    },
+    {
+      "file": "__ 09.jpg",
+      "sha256": "631D505294F0DE346B976A5D64A2FD1A7C4BD63D67C6AC040A7579798F332934"
+    },
+    {
+      "file": "__ 11.jpg",
+      "sha256": "DCFB00EAEACF53016B8E2ED53ACFB4A488683E5B562A7C3B309D80EB20438C81"
+    },
+    {
+      "file": "____.mp4",
+      "sha256": "C61B2757F1EA720EF0BABF84CD3618E79E48E81C617F464FF07668B36A8AD3B5"
+    }
+  ]
+}

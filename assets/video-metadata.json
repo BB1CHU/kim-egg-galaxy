@@ -1,0 +1,54 @@
+[
+  {
+    "id": "camera",
+    "source": "____.mp4",
+    "width": 720,
+    "height": 1280,
+    "duration": 8.3,
+    "codec": "h264",
+    "audioStreamsBefore": 1,
+    "audioStreamsAfter": 0,
+    "bytes": 3418359,
+    "originalSHA256": "C61B2757F1EA720EF0BABF84CD3618E79E48E81C617F464FF07668B36A8AD3B5",
+    "outputSHA256": "C63E20705FF88316A999DDE838145CCBA77B0EA87CB8DF714B5C83C2E2946870"
+  },
+  {
+    "id": "favorite-01",
+    "source": "__ 01.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 22.989633,
+    "codec": "h264",
+    "audioStreamsBefore": 1,
+    "audioStreamsAfter": 0,
+    "bytes": 1318356,
+    "originalSHA256": "CAA901610CEC75B87FD1FF1E63F9B417FE0459D0F0E1B7E3EAA68AD8010D7D75",
+    "outputSHA256": "BCF36F5B815AC3D54D2A8C98E4778822DE5E4D97846D7BA9BF78EA254EE201D4"
+  },
+  {
+    "id": "favorite-02",
+    "source": "__ 02.mp4",
+    "width": 720,
+    "height": 1280,
+    "duration": 9.933333,
+    "codec": "h264",
+    "audioStreamsBefore": 1,
+    "audioStreamsAfter": 0,
+    "bytes": 1776268,
+    "originalSHA256": "EB22D78B076EE694641787192F152C6FFCB70B012870D99EBF08BA5075F1C5FE",
+    "outputSHA256": "3EC28F03D3211EFF2AEF7C08BE9C46EB73E6295B76ACF7A4093F3AB7B7A2F323"
+  },
+  {
+    "id": "favorite-03",
+    "source": "__ 03.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 12.243333,
+    "codec": "h264",
+    "audioStreamsBefore": 1,
+    "audioStreamsAfter": 0,
+    "bytes": 3512871,
+    "originalSHA256": "01F47D49ABF7CCFCF0DBE547FB9F5E05666E3956FDACFF48DD99E12E39563B08",
+    "outputSHA256": "32568D204100496D282EE258F1262B1BE9CAD34B888F0138B4C02E87E6DB4A7D"
+  }
+]
